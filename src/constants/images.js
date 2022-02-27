@@ -20,6 +20,10 @@ import award05 from '../assets/award05.png';
 import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import gericht from '../assets/gericht.png';
+import glassKnife from '../assets/glass-knife.png';
+import glassKnife1 from '../assets/glass-knife1.png';
+import glassKnife2 from '../assets/glass-knife2.png';
+
 
 export default {
   bg,
@@ -29,6 +33,9 @@ export default {
   gallery02,
   gallery03,
   gallery04,
+  glassKnife,
+  glassKnife1,
+  glassKnife2,
   knife,
   logo,
   menu,
