@@ -4,6 +4,6 @@
 - React JS
 
 ### 🌐 Website Preview of home section:
-![Design preview of this project](https://ibb.co/Bwr5xB8)
+![Design preview of this project](https://i.imgur.com/fIRv9cA.png)
 
 ## 🔗 Live Site Link:
