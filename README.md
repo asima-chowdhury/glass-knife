@@ -7,3 +7,4 @@
 ![Design preview of this project](https://i.imgur.com/fIRv9cA.png)
 
 ## 🔗 Live Site Link:
+https://glass-knife.netlify.app/
